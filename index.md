@@ -1,12 +1,12 @@
-## Welcome to gigachad.eu
+## Willkommen bei gigachad.eu
 
-You can use the [editor on GitHub](https://github.com/richrdb/richrdb.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Du kannst den [Editor auf GitHub](https://github.com/richrdb/richrdb.github.io/edit/main/index.md) verwenden, um die Inhalte deiner Website in Markdown-Dateien zu pflegen und in der Vorschau anzuzeigen.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Immer, wenn du in dieses Repository einreichst, wird GitHub Pages [Jekyll](https://jekyllrb.com/) ausführen, um die Seiten deiner Website aus den Inhalten in deinen Markdown-Dateien neu zu erstellen.
 
 ### yt-dlp CLI
 
-yt-dlp CLI is a lightweight and easy-to-use command line interface for downloading audio and video. Here is an example:
+yt-dlp CLI ist eine leichte und einfach zu bedienende Kommandozeilenschnittstelle zum Herunterladen von Audio und Video. Here is an example:
 
 ```markdown
 Write-Output "yt-dlp CLI"
@@ -16,12 +16,12 @@ Write-Output "Process finished!"
 Pause
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Weitere Einzelheiten findest du unter [Grundlegende Schreib- und Formatierungssyntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Jekyll-Themen
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/richrdb/richrdb.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Deine Pages-Seite verwendet das Layout und die Stile des Jekyll-Themas, das du in deinen [Repository-Einstellungen](https://github.com/richrdb/richrdb.github.io/settings/pages) ausgewählt hast. Der Name dieses Themas wird in der Jekyll-Konfigurationsdatei `_config.yml` gespeichert.
 
-### Support or Contact
+### Support oder Kontakt
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Hast du Probleme mit Pages? Schau in unserer [Dokumentation](https://docs.github.com/categories/github-pages-basics/) nach oder wende dich an den [Support](https://support.github.com/contact) und wir helfen dir bei der Lösung des Problems.
