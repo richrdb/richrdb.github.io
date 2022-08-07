@@ -6,7 +6,7 @@ Immer, wenn du in dieses Repository einreichst, wird GitHub Pages [Jekyll](https
 
 ### yt-dlp CLI
 
-yt-dlp CLI ist eine leichte und einfach zu bedienende Kommandozeilenschnittstelle zum Herunterladen von Audio und Video. Here is an example:
+yt-dlp CLI ist eine leichte und einfach zu bedienende Kommandozeilenschnittstelle zum Herunterladen von Audio und Video.
 
 ```markdown
 Write-Output "yt-dlp CLI"
