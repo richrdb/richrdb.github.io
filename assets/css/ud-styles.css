@@ -896,10 +896,9 @@ p {
   padding: 45px 30px;
   position: relative;
 }
-
+/* ===== background: linear-gradient(180deg, #282828 0%, #ff0000 100%); ===== */
 .ud-single-pricing.active {
-  background: -webkit-gradient(linear, left top, left bottom, from(#3056d3), to(#179bee));
-  background: linear-gradient(180deg, #3056d3 0%, #179bee 100%);
+  background: linear-gradient(180deg, #191414 0%, #1DB954 100%);
   border: none;
   padding: 55px 30px;
 }
@@ -922,14 +921,14 @@ p {
 }
 
 .ud-single-pricing.first-item::after {
-  background: var(--primary-color);
+  background: #E50914;
   left: -2px;
   bottom: -2px;
   border-radius: 0px 55px 0px 8px;
 }
 
 .ud-single-pricing.last-item::after {
-  background: #13c296;
+  background: #FF0000;
   top: -2px;
   right: -2px;
   border-radius: 0px 8px 0px 55px;
@@ -959,6 +958,10 @@ p {
 }
 
 .ud-single-pricing .ud-pricing-body {
+  margin-bottom: 40px;
+}
+
+.ud-single-pricing .ud-pricing-image {
   margin-bottom: 40px;
 }
 
