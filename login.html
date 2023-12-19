@@ -13,9 +13,7 @@ body { font-family: Arial, sans-serif; text-align: center; }
 function checkLogin() {
 var username = document.getElementById('username').value;
 var password = document.getElementById('password').value;
-// Einfache Überprüfung der Anmeldedaten
 if (username == 'benutzer' && password == 'Geheim123') {
-// Weiterleitung, wenn die Anmeldedaten korrekt sind
 window.location.href = 'https://hat.sh/';
 } else {
 alert('Falsche Anmeldedaten!');
@@ -33,9 +31,6 @@ alert('Falsche Anmeldedaten!');
 <button onclick="checkLogin()">Login</button>
 </div>
 </div>
-<!-- Herausforderung: Finde den versteckten Link -->
-<!-- UNSICHER: Passwort im Klartext -->
-<!-- Das Passwort für diese Challenge ist: Geheim123 -->
 
 </body>
 </html>
