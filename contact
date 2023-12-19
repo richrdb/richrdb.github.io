@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TU Wien - Kontakt</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #003366;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #005587;
+            color: white;
+            padding: 10px;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 10px;
+            margin-right: 10px;
+        }
+
+        section {
+            padding: 20px;
+        }
+
+        footer {
+            background-color: #003366;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Technische Universität Wien</h1>
+        <img src="https://i.imgur.com/ptLrrwO.png" alt="TU Wien Logo" />
+    </header>
+
+    <nav>
+        <a href="index.html">Startseite</a>
+        <a href="#">Studium</a>
+        <a href="#">Forschung</a>
+        <a href="about.html">Über uns</a>
+        <a href="contact.html">Kontakt</a>
+        <a href="login.html" >Anmeldung</a>
+    </nav>
+
+    <section>
+        <h2>Willkommen an der TU Wien</h2>
+        <p></p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Technische_Universit%C3%A4t_Wien_mainbuilding_mainentrance_northview.jpg/1118px-Technische_Universit%C3%A4t_Wien_mainbuilding_mainentrance_northview.jpg" alt="TU Wien Hauptgebäude" class="center"/>
+        <p></p>
+
+    <h1>Rektorat der Technischen Universität Wien</h1>
+    <ul> 	<li><a href="/tu-wien/organisation/universitaetsleitung/rektorat/rektor">Rektor Jens Schneider</a></li> 	<li><a href="/tu-wien/organisation/universitaetsleitung/rektorat/vizerektor-forschung-innovation-internationales">Vizerektor Forschung, Innovation, Internationales Peter Ertl</a></li> 	<li><a href="/tu-wien/organisation/universitaetsleitung/rektorat/vizerektorin-lehre">Vizerektorin Lehre Jasmin Gründling-Riener</a></li> 	<li><a href="/tu-wien/organisation/universitaetsleitung/rektorat/vizerektor-digitalisierung-und-infrastruktur">Vizerektor Digitalisierung und Infrastruktur Wolfgang Kastner</a></li> 	<li><a href="/tu-wien/organisation/universitaetsleitung/rektorat/vizerektorin-personal">Vizerektorin Personal Ute Koch</a></li> </ul>
+
+    <h2>Weitere Kontakte</h2>
+    <ul>
+        <li>CFO, Leiter TU Finanzen: Martin Kolassa</li>
+        <li>Pressesprecherin: Bettina Neunteufl</li>
+    </ul>
+
+    <p>Kontaktinformationen zu weiteren Personen und Organisationseinheiten an der TU Wien finden Sie über das <a href="https://tiss.tuwien.ac.at" target="_blank">Adressbuch in TISS</a>, öffnet eine externe URL in einem neuen Fenster.</p>
+      
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Technische Universität Wien</p>
+    </footer>
+</body>
+</html>
